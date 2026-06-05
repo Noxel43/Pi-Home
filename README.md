@@ -1,7 +1,10 @@
 # PiHome
-***A Raspberry Pi 5 based home assistant***
+***A CM4 based home assistant***
 ### *This project is currently a WIP*
-With this project, I aim to create an open-source, DIY home assistant with a Raspberry Pi 5 running HAOS (likely customized). This is very early in development, so everything is not really intended to currently be used, just to meet Stardance requirements and, well, github is github. Furthermore, there is no feature list because I have no idea what features this will have. I aim for it to be semi-modular, and easy to make with some technical knowledge and a 3D printer.
+With this project, I aim to create an open-source, DIY home assistant with a custom CM4 (Cconfigurable, use whatever you want) running HAOS (likely customized). This is very early in development, so everything is not really intended to currently be used, just to meet Stardance requirements and, well, github is github. Furthermore, there is no feature list because I have no idea what features this will have. I aim for it to be semi-modular, and easy to make with some technical knowledge and a 3D printer.
+
+## Update
+Switched from Pi5 to CM4 for the main board. Name is now HAVEN
 
 ## Parts
 Find parts in Current BOM.xlsx.
