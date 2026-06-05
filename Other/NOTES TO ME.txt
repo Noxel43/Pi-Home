@@ -1,0 +1,3 @@
+NOTES TO ME
+
+maybe make custom pcb for lp right angle on rpi end
