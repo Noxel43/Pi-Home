@@ -9,3 +9,4 @@ Find parts in Current BOM.xlsx.
 
 ## Attributions
 [Raspberry Pi 5 by felixwin](https://www.printables.com/model/607854-raspberry-pi-5/files) - Used to place RPi and model holes. - GNU General Public License v2.0
+[Adafruit CAD Parts - adafruit[(https://github.com/adafruit/Adafruit_CAD_Parts) - Used to place Adafruit parts. - MIT License
