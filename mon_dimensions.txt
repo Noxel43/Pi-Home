@@ -1,0 +1,14 @@
+BASE MONITOR:
+Width = 364mm
+Length = 230mm
+Low height = 6.85mm
+High height = 11.1mm
+166 of low from l
+
+CIRCULAR BUTTON
+19 from end of high
+4 diameter
+1 end from top
+
+VOLUME SWITCH
+7 from edge of circular button
